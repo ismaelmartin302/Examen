@@ -1,0 +1,57 @@
+tener en cuenta el dato de entrada con ifs, hay que corregir errores con ifs y condicionales
+
+Se puede usar nuestra documentación de clase y la de mozilla
+
+PARTE TEORICA + NODE.JS + HACER UNA CAPTURAS Y HACER NODE.JS
+
+1. hacer un aula, una de musica y otra de sistemas
+aplicar herencia, constructir y extends (1 puntos)
+
+2. promot ingresar nombre apellido ciclo que cursa y mostrar todos en el html , texto por defecto
+
+3. ifs logicos
+Hay un objeto en en javascrit que se llama date (hora) que devuelve la fecha
+Hay un metodo de la clase date, que se llama (gethours)
+Este metodo lo que hace es pasar la hora exacta sin minuto ni segundos
+	El ejercicio lo que hace es que cuando tenga el entero que se obtiene que de una a hora a otra
+	haga haga una determindas cosas
+
+4. Menu hamburguesa, esta resuelto, no va a cambiar nada
+	Da html, script estilo comprimido con el media query
+Comprender el menu hamburguesa, como mucho ha cambiado el nombre de una clase
+
+5. Menu del arbol
+	mirarselo
+
+6. Numeros primos
+	Con el algoritmo fundamental de la definición, hacerlo como sepamos
+
+7. Prototipo
+	Crear funcion prototitopo
+		nombre suuarii, correo y saldo como atributos dni
+
+		2 metodos uno que simule un ingreso y otro que simule un retiro
+		 	ir sumando con += el atributo
+
+8. JSON del libro pargina 184
+	5.19 del ejercicio de paraninfo
+		
+	
+	5.24 tambien con cosas añadidas --> JSON
+
+9. Ejercicio complicado 
+
+
+
+----------------------------------------------------------------------------
+
+Ejercicio 1: Aula de música y aula de sistemas, con herencia (extenses) copiando constructor y haciendo métodos.
+Ejercicio 2: Ejercicio que pide por un prompt que ingrese los datos y los muestre todos en HTML o en la consola, y poner un texto por defecto en el prompt.
+Ejercicio 3: if_op lógicos: hay un objeto en JavaScript que se llama date () que devuelve la fecha, hay un método de ese objeto que si vas a mozilla se llama getHours que es para sacar la hora (variable.getHours). En el examen cuando ya tienes esa variable haces un bucle con un rango de hora de tal hora a tal hora buenos dias, sino, buenas tardes y sino buenas noches.
+Ejercicio 4: menú hamburguesa: estudiarlo de GitHub, es exactamente igual, nos da todo (html y css) menos JS
+Ejercicio 5: menú árbol: (no esta resuelto) en lugar de extended item le puso rotate item, para que rote la flecha
+Ejercicio 6: números primos: con el algoritmo fundamental de la definición, desde dos hasta el numero introducido por el usuario, sacando el módulo de todos los números desde el 2 hasta ese.
+Ejercicio 7: funcion prototipo  cuenta bancaria:nombre de usuario, dni, (3  atributos tontos) y saldo  (atributo importante ) 2 métodos, retiro e ingreso de dinero en la cuenta, los dos con  un parámetro el valor a meter o a sacar, coger el atributo y hacer un mas igual para que vaya sacando el resultado.
+5.20  de la pagina 184 del libro es un ejercicio del examen, y el de json si haces el 5.24 sacas el del examen porque es muy parecido.
+	
+	
